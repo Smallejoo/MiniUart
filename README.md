@@ -1,5 +1,8 @@
 📌 UART Communication Simulator (WinForms)
 
+![2SidesPic](https://github.com/user-attachments/assets/acd8e839-cf4a-4eaa-ac57-873c15aca058)
+
+
     A small WinForms app that helps configure, test, and simulate UART communication.
     Useful for checking serial settings and sending/receiving data over COM ports.
 
