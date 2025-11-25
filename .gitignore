@@ -1,0 +1,25 @@
+# Ignore build output
+bin/
+obj/
+
+# VS cache
+.vs/
+
+# Temporary files
+*.user
+*.cache
+*.log
+
+# Packages
+packages/
+
+# Auto-generated backup files
+*.suo
+*.tmp
+*.bak
+*.swp
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
